@@ -1,4 +1,4 @@
-package chls
+package chls // import "jgquinn.com/chls"
 
 import (
 	"fmt"
