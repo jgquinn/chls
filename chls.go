@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-const Version = "1.0.0-dev"
+const Version = "0.1.0"
 
 // ExecuteRequest replays connections on the provided http.Client,
 // optionally overriding recorded headers with any provided NVPair.
